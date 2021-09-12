@@ -2,7 +2,7 @@
 <p>저는 이렇게 일하고 있습니다.</p>
 
 <ul>
-    <li>프레임워크 기반의 뷰 템플릿엔진 EJS를 이용한 HTML제작</li>
+    <li>프레임워크 기반의 뷰 템플릿엔진 EJS를 이용한 HTML 제작</li>
     <li>Sass(SCSS)전처리기 및 Autoprefixer 등을 이용한 CSS 제작 및 관리</li>
     <li>검증 및 배포 자동화 Jenkins를 통한 코드린트 자동검증</li>
     <li>Confluence 위키를 통한 정보 공유</li>
