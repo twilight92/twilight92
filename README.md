@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요! UI개발자 박수정입니다.</h1>
+<h1 align="center">👋 안녕하세요! UI 개발자 박수정입니다.</h1>
 <p>저는 이렇게 일하고 있습니다.</p>
 
 <ul>
@@ -44,10 +44,6 @@
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 </a>
 
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
@@ -67,6 +63,10 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </a>
+    
+<a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>    
 
 </p>
 
