@@ -73,6 +73,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twilight92&show_icons=true&locale=en" alt="twilight92" /></p>
 
-<h3 align="left">좌우명</h3>
-남의 성공은 반드시 이유가 있고<br>
-내 실패 또한 반드시 이유가 있다
