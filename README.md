@@ -10,7 +10,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -73,3 +72,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twilight92&show_icons=true&locale=en&layout=compact" alt="twilight92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twilight92&show_icons=true&locale=en" alt="twilight92" /></p>
+
+<h3 align="left">좌우명</h3>
+남의 성공은 반드시 이유가 있고<br>
+내 실패 또한 반드시 이유가 있다
