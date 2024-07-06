@@ -6,8 +6,12 @@
     <li>Sass(SCSS)전처리기 및 Autoprefixer 등을 이용한 CSS 제작 및 관리</li>
     <li>검증 및 배포 자동화 Jenkins를 통한 코드린트 자동검증</li>
     <li>Confluence 위키를 통한 정보 공유</li>
-    <li>GitLab 저장소를 이용한 소스 관리</li>
+    <li>Azure 저장소를 이용한 소스 관리</li>
 </ul>
+
+<p>
+    차세대 혁신담당은 DT본부의 핵심 서비스인 이마트 앱과 DT본부에서 만들어지는 다양한 Product의 토대가 되는 플랫폼 및 시스템을 구축하고 있습니다. 기존의 레거시 시스템을 리팩토링하는 것 뿐만 아니라 신규 Product의 기획부터 개발까지 담당하며 어떠한 상황에도 안정적으로 서비스를 공급할 수 있는 토대를 만들고 있습니다.
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
