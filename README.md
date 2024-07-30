@@ -4,7 +4,7 @@
 <ul>
     <li>프레임워크 기반의 뷰 템플릿엔진 EJS를 이용한 HTML 제작</li>
     <li>Sass(SCSS)전처리기 및 Autoprefixer 등을 이용한 CSS 제작 및 관리</li>
-    <li>검증 및 배포 자동화 Jenkins를 통한 코드린트 자동검증</li>
+    <li>gulp를 활용한 검증 및 프로세스 자동화</li>
     <li>Confluence 위키를 통한 정보 공유</li>
     <li>Azure 저장소를 이용한 소스 관리</li>
 </ul>
