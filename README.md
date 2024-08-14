@@ -3,8 +3,19 @@
 
 <ul>
     <li>프레임워크 기반의 뷰 템플릿엔진 EJS를 이용한 HTML 제작</li>
-    <li>Sass(SCSS)전처리기 및 Autoprefixer 등을 이용한 CSS 제작 및 관리</li>
-    <li>gulp를 활용한 검증 및 프로세스 자동화</li>
+    <li>Sass(SCSS)전처리기를 이용한 CSS 제작 및 관리</li>
+    <li>
+        gulp를 활용한 검증 및 프로세스 자동화
+        <ul>
+            <li>gulp-sass를 이용한 SCSS 자동 컴파일/소스맵 생성/압축</li>
+            <li>gulp-autoprefixer를 이용한 자동 벤더 프리픽스 추가</li>
+            <li>gulp-eslint를 이용한 코드 품질 검사</li>
+            <li>gulp.spritesmith를 이용한 스프라이트 이미지 생성</li>
+            <li>babelify를 이용한 자동 ES6 코드 변환</li>
+            <li>gulp-webserver를 이용한 로컬 웹 서버 구동 및 브라우저 동기화</li>
+            <li>gulp.watch를 이용한 파일 변경 감지 및 자동 빌드</li>
+        </ul>
+    </li>
     <li>Confluence 위키를 통한 정보 공유</li>
     <li>Azure 저장소를 이용한 소스 관리</li>
 </ul>
